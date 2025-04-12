@@ -7,11 +7,11 @@ The project focuses on data visualization and predictive analysis to guide strat
 ## 📁 Dataset Overview
 The assignment includes two worksheets containing simulated e-commerce sales data. The data consists of order details such as:
 
-Product and category information
+* Product and category information
 
-Sales value, quantity, and discounts
+* Sales value, quantity, and discounts
 
-Customer details and location
+* Customer details and location
 
-Order and delivery dates
+* Order and delivery dates
 
