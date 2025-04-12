@@ -90,6 +90,7 @@ The key goal of this project is to extract actionable insights using Power BI by
 * Build real-time dashboards using Power BI service + streaming datasets
 
 ## 📬 Contact
-### Gautam Kumar
-LinkedIn[https://www.linkedin.com/in/gautam-kumar-gsk/]
+LinkedIn: [Gautam Kumar](https://www.linkedin.com/in/gautam-kumar-a83bb3223/)
+
 Email: gautamgsk009@gmail.com
+
