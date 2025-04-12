@@ -67,7 +67,9 @@ The key goal of this project is to extract actionable insights using Power BI by
 * Use slicers to view data by time, product category, customer segment, and location.
 
 ## 📷 Screenshots
- 
+
+ ![image](https://github.com/user-attachments/assets/48ac0534-0e74-495d-89e2-2f32c3d821cb)
+
 
 ## 📢 Insights Summary
 * Top Categories 
@@ -88,6 +90,6 @@ The key goal of this project is to extract actionable insights using Power BI by
 * Build real-time dashboards using Power BI service + streaming datasets
 
 ## 📬 Contact
-###Gautam Kumar
+### Gautam Kumar
 LinkedIn[https://www.linkedin.com/in/gautam-kumar-gsk/]
 Email: gautamgsk009@gmail.com
